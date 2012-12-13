@@ -2,9 +2,7 @@ TheLanding
 ==========
 
 A repository filled with programs and applications developed at TheLanding.
-You can find TheLanding at <http://thelanding.rhenzar.com>. The source and
-binary forms of the programs and applications found at TheLanding's GitHub
-are free software, in accordance to the BSD License, listed below.
+You can find TheLanding at <http://thelanding.rhenzar.com>. 
 ===========================================================================
 
 © 2012, 2012, rhenzar
