@@ -5,7 +5,7 @@ A repository filled with programs and applications developed at TheLanding.
 You can find TheLanding at <http://thelanding.rhenzar.com>. 
 ===========================================================================
 
-© 2012, 2012, rhenzar
+© 2012, rhenzar
 All rights reserved.
 
 Retribution and use in source and binary forms, with or without
